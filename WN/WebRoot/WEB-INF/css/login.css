@@ -1,0 +1,68 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+	}
+body{
+	background-color: cornflowerblue;
+}
+
+img{
+	width: 100%;
+	height: 100%;
+}
+
+li {
+	width: 100px;
+	
+	list-style-type: none;
+	margin: auto;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+}
+
+.zu{
+	
+	padding: 200px;
+}
+
+.mi{
+	margin: auto;
+
+}
+
+/*---------------------按钮-----------------------------*/
+
+.login_putin ul li input {
+    padding:3.5px;
+	-webkit-border-radius: .3em;
+	-moz-border-radius: .3em;
+	border: 1px solid #999;
+}
+
+.login_btn {
+	width: 100px;
+	margin: 20px auto auto auto;
+}
+
+.login_btn input {
+	width: 138%;
+	margin: 0 ;
+	padding: .10em 0；
+	-webkit-border-radius: .3em;
+	-moz-border-radius: .3em;
+	border: #1263be solid 1px;
+	background: #1b85fd;
+	color: #FFF;
+	font-size: 16px;
+	font-weight: bolder;
+	letter-spacing: 0.5em;
+}
+
+.login_btn input:hover {
+	background: #1263be;
+}
